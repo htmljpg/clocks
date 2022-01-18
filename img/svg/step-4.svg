@@ -1,0 +1,21 @@
+<svg id="Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14.83 23.59">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 1.2px;
+      }
+    </style>
+  </defs>
+  <title>step-4</title>
+  <g>
+    <line class="cls-1" x1="5.47" y1="22.99" x2="9.36" y2="22.99"/>
+    <path class="cls-1" d="M-41.42,11.23a6.81,6.81,0,0,0-6.93-6.81A6.89,6.89,0,0,0-55,11a6.82,6.82,0,0,0,2.77,5.73A2.84,2.84,0,0,1-51.16,19v2.69c0,.79.44,1.22,1,1.22h3.89a1,1,0,0,0,1-1V19a2.79,2.79,0,0,1,1.1-2.28A6.79,6.79,0,0,0-41.42,11.23Z" transform="translate(55.65 -3.81)"/>
+    <line class="cls-1" x1="7.42" y1="10.34" x2="7.42" y2="19.1"/>
+    <line class="cls-1" x1="5.47" y1="8.39" x2="7.42" y2="10.34"/>
+    <line class="cls-1" x1="9.36" y1="8.39" x2="7.42" y2="10.34"/>
+  </g>
+</svg>

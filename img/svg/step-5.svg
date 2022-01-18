@@ -1,0 +1,22 @@
+<svg id="Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20.81 24.94">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 1.2px;
+      }
+    </style>
+  </defs>
+  <title>step-5</title>
+  <g>
+    <g>
+      <line class="cls-1" x1="18.15" y1="12.99" x2="18.15" y2="5.76"/>
+      <polygon class="cls-1" points="19.18 5.76 17.11 5.76 16.08 3.7 17.11 0.6 19.18 0.6 20.21 3.7 19.18 5.76"/>
+      <path class="cls-1" d="M-110.87,13.37V25.14a2.07,2.07,0,0,0,2.07,2.07h0a2.07,2.07,0,0,0,2.06-2.07V13.37a5.2,5.2,0,0,0,3.1-4.74,5.19,5.19,0,0,0-3.1-4.74V7.6a2.07,2.07,0,0,1-2.06,2.06,2.07,2.07,0,0,1-2.07-2.06V3.89A5.18,5.18,0,0,0-114,8.63,5.19,5.19,0,0,0-110.87,13.37Z" transform="translate(114.56 -2.87)"/>
+    </g>
+    <path class="cls-1" d="M-96.42,27.21h0a2.07,2.07,0,0,1-2.06-2.07V15.85h4.13v9.29A2.07,2.07,0,0,1-96.42,27.21Z" transform="translate(114.56 -2.87)"/>
+  </g>
+</svg>
